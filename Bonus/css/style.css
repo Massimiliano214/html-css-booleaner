@@ -1,0 +1,88 @@
+* {
+    border-spacing: 0;
+    margin: 0;
+}
+
+main {
+    width: 76%;
+    margin: auto;
+}
+
+ section, article{
+    margin: 10px;
+ }
+
+header{
+    background-image: url("../img/pattern.png");
+    background-color: #5ba8ff;
+    height: 180px;
+    background-image: cover;
+    margin: 0;
+}
+
+
+
+.logo {
+    width: 200px;
+    padding-top: 100px;
+    padding-left: 12%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.autore {
+    font-size: 20px;
+}
+span {
+    color: #5ba8ff;
+}
+
+.descrizioni {
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+main {
+    font-size: 20px;
+}
+
+.primal{
+    text-align: left;
+    background-color: rgb(0, 123, 255);
+    color: white;
+}
+
+.acqual {
+    background-color: rgba(0, 208, 255, 0.599);
+}
+
+.lungo {
+    width: 55%;
+}
+
+.intermezzo {
+    color: gray;
+    margin-top: 15px;
+}
+.scheda1 {
+    background-image: url("../img/monitor.jpg") ;
+    width: 300px;
+    height: 200px;
+}
+
+.scheda2 {
+    background-image: url("../img/graph.jpg") ;
+    width: 300px;
+    height: 200px;
+}
+
+.white{
+    color: white;
+}
