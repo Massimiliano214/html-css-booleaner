@@ -1,3 +1,8 @@
+* {
+    border-spacing: 0;
+    margin: 0;
+}
+
 header{
     background-image: url("../img/pattern.png");
     background-color: #5ba8ff;
@@ -15,6 +20,7 @@ header{
 h1 {
     font-size: 50px;
     margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 .autore {
@@ -32,7 +38,7 @@ ul {
     padding-left: 15px;
 }
 
-.testo {
+main {
     font-size: 20px;
 }
 
@@ -48,4 +54,11 @@ ul {
 
 .lungo {
     width: 55%;
+}
+
+.intermezzo {
+    color: gray;
+}
+.scheda1 {
+    background-image: ;
 }
