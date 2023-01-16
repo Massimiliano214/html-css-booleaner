@@ -3,11 +3,15 @@
     margin: 0;
 }
 
+ section, article{
+    margin: 10px;
+ }
 header{
     background-image: url("../img/pattern.png");
     background-color: #5ba8ff;
     height: 180px;
     background-image: cover;
+    margin: 0;
 }
 
 
@@ -60,5 +64,17 @@ main {
     color: gray;
 }
 .scheda1 {
-    background-image: ;
+    background-image: url("../img/monitor.jpg") ;
+    width: 300px;
+    height: 200px;
+}
+
+.scheda2 {
+    background-image: url("../img/graph.jpg") ;
+    width: 300px;
+    height: 200px;
+}
+
+.white{
+    color: white;
 }
