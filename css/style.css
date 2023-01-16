@@ -1,0 +1,33 @@
+header{
+    background-image: url("../img/pattern.png");
+    background-color: #5ba8ff;
+    height: 180px;
+    background-image: cover;
+}
+
+
+
+.logo {
+    width: 200px;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.autore {
+    font-size: 20px;
+}
+span {
+    color: #5ba8ff;
+}
+
+.descrizioni {
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 15px;
+}
