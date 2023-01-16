@@ -62,6 +62,7 @@ main {
 
 .intermezzo {
     color: gray;
+    margin-top: 15px;
 }
 .scheda1 {
     background-image: url("../img/monitor.jpg") ;
